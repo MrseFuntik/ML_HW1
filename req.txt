@@ -2,4 +2,4 @@ seaborn
 fastapi
 pydantic
 pandas
-sklearn
+scikit-learn
