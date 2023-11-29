@@ -58,6 +58,15 @@ class Item(BaseModel):
 class Items(BaseModel):
     objects: List[Item]
 
+@app.post("/")
+def post_main():
+    return 'Hello'
+
+
+@app.get("/")
+def get_main():
+    return 'Hello'
+
 
 @app.post("/predict_item")
 def predict_item(itemm: Item):
