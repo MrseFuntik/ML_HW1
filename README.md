@@ -8,10 +8,10 @@
 6. Реализован веб-сервис, позволяющий получить предсказание модели по входным данным (json файл с параметрами машины). Сервис деплоился на render.com
    Ниже прикреплены скриншоты успешной работы сервиса FastAPI. Тесты проводились с помощью Postman.
    На скриншоте ниже изображен метод predict_item, получающий на вход json машины и возвращающий предсказание цены для неё.
-   ![image](https://github.com/MrseFuntik/ML_HW1/assets/136927535/707eea2f-8454-47e0-a171-7ea04e1a22b5)
+   ![image](https://github.com/MrseFuntik/ML_HW1/assets/136927535/ac6225de-3bae-40cf-91cf-474e22632ea7)
 
    На этом скриншоте изображен метод predict_items, получающий на вход список с json-строками машин и возвращающий обновленный json-список, с дополнительным столбцом, содержащим предсказания для каждой из машин
-   ![image](https://github.com/MrseFuntik/ML_HW1/assets/136927535/ac6225de-3bae-40cf-91cf-474e22632ea7)
+   ![image](https://github.com/MrseFuntik/ML_HW1/assets/136927535/707eea2f-8454-47e0-a171-7ea04e1a22b5)
 
 Ссылка на поднятый веб-сервис: https://ml-hw1-fastapi-12tr.onrender.com
 
