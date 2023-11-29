@@ -15,3 +15,4 @@
    ![image](https://github.com/MrseFuntik/ML_HW1/assets/136927535/ac6225de-3bae-40cf-91cf-474e22632ea7)
 
 Ссылка на поднятый веб-сервис: https://ml-hw1-fastapi-12tr.onrender.com
+Если будете тестировать запросы FastAPI, нужно будет подождать пару минут, пока сервис рестартнется
